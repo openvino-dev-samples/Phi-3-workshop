@@ -36,5 +36,5 @@ Windows 11
 | -------- | ------- |  ------- |
 | 🚀 Lab-1-Introduce Phi-3 Instruct  | Learn how to use Phi-3 Instruct in your AI PC    |  [Go](./lab-1-phi3-instruct.ipynb)    |
 | 🚀 Lab-2-Introduce Phi-3 Vision | Learn how to use Phi-3 Vision in your AI PC      |  [Go](./lab-2-phi3-vision.ipynb)    |
-| 🚀 Lab-3-Chatbot&RAG    | Learn how to create RAG Application with Phi-3   |  [Go](./lab-3-chatbot-rag.ipynb)    |
+| 🚀 Lab-3-Chatbot&RAG&Agent    | Learn how to create RAG Application with Phi-3   |  [Go](./lab-3-chatbot-rag.ipynb)    |
 | 🚀 Lab-4-Using Phi-3 with speech    | Learn how to use Phi-3 with Speech     |  [Go](./lab-4-phi3-speech.ipynb)     |
