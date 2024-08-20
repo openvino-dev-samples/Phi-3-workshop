@@ -9,6 +9,7 @@ call "C:\Users\%USERNAME%\miniconda3\Scripts\activate.bat" openvino_env
 echo Installing requirements...
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+conda install ffmpeg
 
 echo Checking installed packages...
 conda list
