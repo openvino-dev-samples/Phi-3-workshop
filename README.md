@@ -42,7 +42,7 @@ Windows 11
 | 🚀 Lab-Using Phi-3 with speech    | Learn how to use Phi-3 with Speech     |  [Go](./lab-4-phi3-speech.ipynb)     |
 
 
-### **🤖 Lab for Phi-3**
+### **🤖 Lab for Phi-3.5**
 
 | Labs    | Introduce | Go |
 | -------- | ------- |  ------- |
