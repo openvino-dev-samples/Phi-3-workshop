@@ -15,6 +15,7 @@ openai-whisper==20231117
 ffmpeg==1.4
 edge-tts
 openai
+torchvision
 
 # jupyter
 jupyterlab
