@@ -32,9 +32,21 @@ Windows 11
 
 ## 🧪 Labs
 
+### **🤖 Lab for Phi-3**
+
 | Labs    | Introduce | Go |
 | -------- | ------- |  ------- |
-| 🚀 Lab-1-Introduce Phi-3 Instruct  | Learn how to use Phi-3 Instruct in your AI PC    |  [Go](./lab-1-phi3-instruct.ipynb)    |
-| 🚀 Lab-2-Introduce Phi-3 Vision | Learn how to use Phi-3 Vision in your AI PC      |  [Go](./lab-2-phi3-vision.ipynb)    |
-| 🚀 Lab-3-Chatbot&RAG&Agent    | Learn how to create RAG Application with Phi-3   |  [Go](./lab-3-phi3-agent-rag.ipynb)    |
-| 🚀 Lab-4-Using Phi-3 with speech    | Learn how to use Phi-3 with Speech     |  [Go](./lab-4-phi3-speech.ipynb)     |
+| 🚀 Lab-Introduce Phi-3 Instruct  | Learn how to use Phi-3 Instruct in your AI PC    |  [Go](./lab-1-phi3-instruct.ipynb)    |
+| 🚀 Lab-Introduce Phi-3 Vision | Learn how to use Phi-3 Vision in your AI PC      |  [Go](./lab-2-phi3-vision.ipynb)    |
+| 🚀 Lab-Chatbot&RAG&Agent    | Learn how to create RAG Application with Phi-3   |  [Go](./lab-3-phi3-agent-rag.ipynb)    |
+| 🚀 Lab-Using Phi-3 with speech    | Learn how to use Phi-3 with Speech     |  [Go](./lab-4-phi3-speech.ipynb)     |
+
+
+### **🤖 Lab for Phi-3**
+
+| Labs    | Introduce | Go |
+| -------- | ------- |  ------- |
+| 🚀 Lab-Introduce Phi-3.5 Instruct  | Learn how to use Phi-3.5 Instruct in your AI PC    |  [Go](./lab-1-phi35-instruct-zh.ipynb)    |
+| 🚀 Lab-Introduce Phi-3.5 Vision (image) | Learn how to use Phi-3.5 Vision to analyze image in your AI PC      |  [Go](./lab-2-phi35-vision-img.ipynb)    |
+| 🚀 Lab-Chatbot&RAG&Agent (video)   | Learn how to use Phi-3.5 Vision to analyze image in your AI PC    |  [Go](./lab-2-phi35-vision-video.ipynb)    |
+| 🚀 Lab-Using Phi-3 with speech    | Learn how to use Phi-3.5 with Speech , You can speech English and get Chinese answer    |  [Go](./lab-4-phi35-speech-cn.ipynb)     |
