@@ -10,6 +10,7 @@ llama-index-embeddings-openvino>=0.2.0
 transformers>=4.40
 openvino-genai>=2024.3.0.0
 
+torch==2.3.0
 gradio
 openai-whisper==20231117 
 ffmpeg==1.4
