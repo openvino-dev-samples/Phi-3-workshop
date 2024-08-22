@@ -15,10 +15,5 @@ echo Checking installed packages...
 conda list
 
 
-echo Checking installed packages...
-cd ./examples
-mkdir output
-cd ../
-
 echo Installation complete!
 pause
